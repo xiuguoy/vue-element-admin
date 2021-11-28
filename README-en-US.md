@@ -8,14 +8,13 @@ Simplify the official project [vue - element - admin] (https://github.com/PanJia
 
 ## Projects show
 
-[demo](https://liuyongjin.github.io/show_admin/#/login)
+[demo](https://xiuguoy.github.io/#/login
 
 ## Project start
 
 ```bash
 # clone the project
-git clone https://github.com/liuyongjin/pure_admin.git
-git clone git://github.com/liuyongjin/pure_admin.git
+git clone https://github.com/xiuguoy/vue-element-admin.git
 
 # enter the project directory
 cd pure_admin

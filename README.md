@@ -8,13 +8,13 @@
 
 ## 项目展示
 
-[演示](https://liuyongjin.github.io/show_admin/#/login)
+[演示](https://xiuguoy.github.io/#/login)
 
 ## 项目启动
 
 ```bash
 # 克隆项目
-git clone https://github.com/shuran506/vue-element-admin.git
+git clone https://github.com/xiuguoy/vue-element-admin.git
 
 # 进入项目目录
 cd pure_admin
