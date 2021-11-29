@@ -1,4 +1,4 @@
-# pure_admin
+# vue-element-admin
 
 简体中文 | [English](./README-en-US.md)
 
